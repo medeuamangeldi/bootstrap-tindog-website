@@ -177,6 +177,10 @@ h3 {
 
 /* Pricing-cards */
 
+#pricing {
+    padding-bottom: 5%;
+}
+
 .card-group {
     padding: 3% 10% 3% 10%;
 }
